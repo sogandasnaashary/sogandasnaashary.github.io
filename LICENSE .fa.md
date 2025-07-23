@@ -1,21 +1,19 @@
-# The MIT License (MIT)
+مجوز کریتیو کامنز (Creative Commons)  
+اجازه استفاده با شرایط: Attribution-NonCommercial-NoDerivatives 4.0 بین‌المللی (CC BY-NC-ND 4.0)
 
-Copyright (c) 2021 Paul Le
+این اثر تحت مجوز کریتیو کامنز با شرایط "ارجاع، غیرتجاری، بدون ایجاد اثر مشتق" ۴.۰ بین‌المللی قرار دارد.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+شما مجازید:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- به اشتراک گذاشتن — کپی و توزیع اثر در هر رسانه یا قالب
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+با رعایت شرایط زیر:
+
+- ارجاع — باید اعتبار مناسب بدهید، لینک مجوز را قرار دهید، و اگر تغییراتی داده شده ذکر کنید.
+- غیرتجاری — نمی‌توانید اثر را برای اهداف تجاری استفاده کنید.
+- بدون ایجاد اثر مشتق — اگر اثر را تغییر دهید، ویرایش یا بر اساس آن اثر جدید بسازید، مجاز به توزیع نسخه تغییر یافته نیستید.
+
+محدودیت اضافی — نمی‌توانید شرایط حقوقی یا فنی اضافه کنید که دیگران را از انجام کارهایی که مجوز اجازه داده محدود کند.
+
+🔗 متن کامل مجوز: https://creativecommons.org/licenses/by-nc-nd/4.0/  
+📧 برای درخواست مجوز استفاده: sogand.asnaashary@gmail.com
