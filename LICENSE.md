@@ -1,8 +1,0 @@
-## 🔒 License & Usage
-
-All artworks, images, and designs in this portfolio are copyrighted and protected under the following license:
-
-📜 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0)**  
-You may **not** copy, reuse, modify, or redistribute any part of this content without written permission.
-
-🔗 [View Full License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
